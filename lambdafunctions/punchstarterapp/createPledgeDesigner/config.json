@@ -1,0 +1,6 @@
+{
+    "host"     : "punchstarter.cg0vhsws1yed.us-east-2.rds.amazonaws.com",
+    "user"     : "punchAdmin",
+    "password" : "punchPassword",
+    "database" : "info"
+}
